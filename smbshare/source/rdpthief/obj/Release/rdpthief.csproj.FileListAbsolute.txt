@@ -1,8 +1,0 @@
-Y:\source\rdpthief\bin\Release\rdpthief.exe.config
-Y:\source\rdpthief\bin\Release\rdpthief.exe
-Y:\source\rdpthief\bin\Release\rdpthief.pdb
-Y:\source\rdpthief\obj\Release\rdpthief.csproj.AssemblyReference.cache
-Y:\source\rdpthief\obj\Release\rdpthief.csproj.CoreCompileInputs.cache
-Y:\source\rdpthief\obj\Release\rdpthief.exe
-Y:\source\rdpthief\obj\Release\rdpthief.pdb
-Y:\source\rdpthief\obj\Release\rdpthief.exe.config
