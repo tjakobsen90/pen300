@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irene\\source\\repos\\halllow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3B1FCF-CB98-40B9-9A6A-CA518E59333A}|halllow\\halllow.csproj|c:\\users\\irene\\source\\repos\\halllow\\halllow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3B1FCF-CB98-40B9-9A6A-CA518E59333A}|halllow\\halllow.csproj|solutionrelative:halllow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\halllow\\halllow\\Program.cs",
+              "RelativeDocumentMoniker": "halllow\\Program.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\halllow\\halllow\\Program.cs",
+              "RelativeToolTip": "halllow\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwGcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T10:59:52.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

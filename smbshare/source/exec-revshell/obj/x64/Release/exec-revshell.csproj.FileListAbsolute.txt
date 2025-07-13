@@ -1,0 +1,15 @@
+Z:\source\exec-revshell\bin\x64\Release\exec-revshell.exe.config
+Z:\source\exec-revshell\bin\x64\Release\exec-revshell.exe
+Z:\source\exec-revshell\bin\x64\Release\exec-revshell.pdb
+Z:\source\exec-revshell\obj\x64\Release\exec-revshell.csproj.CoreCompileInputs.cache
+Z:\source\exec-revshell\obj\x64\Release\exec-revshell.exe
+Z:\source\exec-revshell\obj\x64\Release\exec-revshell.pdb
+Z:\source\exec-revshell\obj\x64\Release\exec-revshell.csprojAssemblyReference.cache
+Y:\source\exec-revshell\bin\x64\Release\exec-revshell.exe.config
+Y:\source\exec-revshell\bin\x64\Release\exec-revshell.exe
+Y:\source\exec-revshell\bin\x64\Release\exec-revshell.pdb
+Y:\source\exec-revshell\obj\x64\Release\exec-revshell.csproj.AssemblyReference.cache
+Y:\source\exec-revshell\obj\x64\Release\exec-revshell.exe.config
+Y:\source\exec-revshell\obj\x64\Release\exec-revshell.csproj.CoreCompileInputs.cache
+Y:\source\exec-revshell\obj\x64\Release\exec-revshell.exe
+Y:\source\exec-revshell\obj\x64\Release\exec-revshell.pdb

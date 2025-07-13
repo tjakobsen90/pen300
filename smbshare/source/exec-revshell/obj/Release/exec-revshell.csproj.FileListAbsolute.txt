@@ -1,0 +1,7 @@
+Z:\source\exec-revshell\bin\Release\exec-revshell.exe.config
+Z:\source\exec-revshell\bin\Release\exec-revshell.exe
+Z:\source\exec-revshell\bin\Release\exec-revshell.pdb
+Z:\source\exec-revshell\obj\Release\exec-revshell.csprojAssemblyReference.cache
+Z:\source\exec-revshell\obj\Release\exec-revshell.csproj.CoreCompileInputs.cache
+Z:\source\exec-revshell\obj\Release\exec-revshell.exe
+Z:\source\exec-revshell\obj\Release\exec-revshell.pdb

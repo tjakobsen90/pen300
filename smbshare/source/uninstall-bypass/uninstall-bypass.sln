@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uninstall-bypass", "uninstall-bypass.csproj", "{7E10B490-D52D-E395-A5F2-FD2A9BD83A48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E10B490-D52D-E395-A5F2-FD2A9BD83A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E10B490-D52D-E395-A5F2-FD2A9BD83A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E10B490-D52D-E395-A5F2-FD2A9BD83A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E10B490-D52D-E395-A5F2-FD2A9BD83A48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75E93512-ACCF-473F-92BD-82824E7C6E9E}
+	EndGlobalSection
+EndGlobal

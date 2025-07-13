@@ -1,0 +1,9 @@
+Z:\source\runspace-bypass\bin\Release\runspace-bypass.exe.config
+Z:\source\runspace-bypass\bin\Release\runspace-bypass.exe
+Z:\source\runspace-bypass\bin\Release\runspace-bypass.pdb
+Z:\source\runspace-bypass\bin\Release\System.Management.Automation.dll
+Z:\source\runspace-bypass\obj\Release\runspace-bypass.csprojAssemblyReference.cache
+Z:\source\runspace-bypass\obj\Release\runspace-bypass.csproj.CoreCompileInputs.cache
+Z:\source\runspace-bypass\obj\Release\runspace-bypass.csproj.CopyComplete
+Z:\source\runspace-bypass\obj\Release\runspace-bypass.exe
+Z:\source\runspace-bypass\obj\Release\runspace-bypass.pdb

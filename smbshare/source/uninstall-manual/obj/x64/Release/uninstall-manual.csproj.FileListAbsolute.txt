@@ -1,0 +1,9 @@
+Z:\source\uninstall-manual\bin\x64\Release\uninstall-manual.exe.config
+Z:\source\uninstall-manual\bin\x64\Release\uninstall-manual.exe
+Z:\source\uninstall-manual\bin\x64\Release\uninstall-manual.pdb
+Z:\source\uninstall-manual\bin\x64\Release\System.Management.Automation.dll
+Z:\source\uninstall-manual\obj\x64\Release\uninstall-manual.csprojAssemblyReference.cache
+Z:\source\uninstall-manual\obj\x64\Release\uninstall-manual.csproj.CoreCompileInputs.cache
+Z:\source\uninstall-manual\obj\x64\Release\uninstall-manual.csproj.CopyComplete
+Z:\source\uninstall-manual\obj\x64\Release\uninstall-manual.exe
+Z:\source\uninstall-manual\obj\x64\Release\uninstall-manual.pdb

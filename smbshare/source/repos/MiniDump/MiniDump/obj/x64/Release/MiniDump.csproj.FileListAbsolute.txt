@@ -1,0 +1,7 @@
+C:\Users\irene\source\repos\MiniDump\MiniDump\bin\x64\Release\MiniDump.exe.config
+C:\Users\irene\source\repos\MiniDump\MiniDump\bin\x64\Release\MiniDump.exe
+C:\Users\irene\source\repos\MiniDump\MiniDump\bin\x64\Release\MiniDump.pdb
+C:\Users\irene\source\repos\MiniDump\MiniDump\obj\x64\Release\MiniDump.csproj.AssemblyReference.cache
+C:\Users\irene\source\repos\MiniDump\MiniDump\obj\x64\Release\MiniDump.csproj.CoreCompileInputs.cache
+C:\Users\irene\source\repos\MiniDump\MiniDump\obj\x64\Release\MiniDump.exe
+C:\Users\irene\source\repos\MiniDump\MiniDump\obj\x64\Release\MiniDump.pdb

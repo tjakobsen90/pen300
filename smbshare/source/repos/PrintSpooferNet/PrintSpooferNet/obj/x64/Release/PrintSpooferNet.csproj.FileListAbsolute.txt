@@ -1,0 +1,7 @@
+C:\Users\irene\source\repos\PrintSpooferNet\PrintSpooferNet\bin\x64\Release\PrintSpooferNet.exe.config
+C:\Users\irene\source\repos\PrintSpooferNet\PrintSpooferNet\bin\x64\Release\PrintSpooferNet.exe
+C:\Users\irene\source\repos\PrintSpooferNet\PrintSpooferNet\bin\x64\Release\PrintSpooferNet.pdb
+C:\Users\irene\source\repos\PrintSpooferNet\PrintSpooferNet\obj\x64\Release\PrintSpooferNet.csproj.AssemblyReference.cache
+C:\Users\irene\source\repos\PrintSpooferNet\PrintSpooferNet\obj\x64\Release\PrintSpooferNet.csproj.CoreCompileInputs.cache
+C:\Users\irene\source\repos\PrintSpooferNet\PrintSpooferNet\obj\x64\Release\PrintSpooferNet.exe
+C:\Users\irene\source\repos\PrintSpooferNet\PrintSpooferNet\obj\x64\Release\PrintSpooferNet.pdb

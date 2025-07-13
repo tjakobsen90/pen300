@@ -1,0 +1,8 @@
+Y:\source\buildproject\bin\x64\Release\buildproject.exe.config
+Y:\source\buildproject\bin\x64\Release\buildproject.exe
+Y:\source\buildproject\bin\x64\Release\buildproject.pdb
+Y:\source\buildproject\obj\x64\Release\buildproject.csproj.AssemblyReference.cache
+Y:\source\buildproject\obj\x64\Release\buildproject.csproj.CoreCompileInputs.cache
+Y:\source\buildproject\obj\x64\Release\buildproject.exe
+Y:\source\buildproject\obj\x64\Release\buildproject.pdb
+Y:\source\buildproject\obj\x64\Release\buildproject.exe.config

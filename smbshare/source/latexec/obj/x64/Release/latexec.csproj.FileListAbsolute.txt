@@ -1,0 +1,14 @@
+Z:\source\latexec\bin\x64\Release\latexec.exe.config
+Z:\source\latexec\bin\x64\Release\latexec.exe
+Z:\source\latexec\bin\x64\Release\latexec.pdb
+Z:\source\latexec\obj\x64\Release\latexec.csproj.CoreCompileInputs.cache
+Z:\source\latexec\obj\x64\Release\latexec.exe
+Z:\source\latexec\obj\x64\Release\latexec.pdb
+Y:\source\latexec\bin\x64\Release\latexec.exe.config
+Y:\source\latexec\bin\x64\Release\latexec.exe
+Y:\source\latexec\bin\x64\Release\latexec.pdb
+Y:\source\latexec\obj\x64\Release\latexec.csproj.AssemblyReference.cache
+Y:\source\latexec\obj\x64\Release\latexec.exe.config
+Y:\source\latexec\obj\x64\Release\latexec.csproj.CoreCompileInputs.cache
+Y:\source\latexec\obj\x64\Release\latexec.exe
+Y:\source\latexec\obj\x64\Release\latexec.pdb

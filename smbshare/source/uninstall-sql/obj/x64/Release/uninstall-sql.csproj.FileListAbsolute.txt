@@ -1,0 +1,8 @@
+Y:\source\uninstall-sql\obj\x64\Release\uninstall-sql.csproj.AssemblyReference.cache
+Y:\source\uninstall-sql\obj\x64\Release\uninstall-sql.csproj.CoreCompileInputs.cache
+Y:\source\uninstall-sql\bin\x64\Release\uninstall-sql.exe.config
+Y:\source\uninstall-sql\bin\x64\Release\uninstall-sql.exe
+Y:\source\uninstall-sql\bin\x64\Release\uninstall-sql.pdb
+Y:\source\uninstall-sql\obj\x64\Release\uninstall-sql.exe
+Y:\source\uninstall-sql\obj\x64\Release\uninstall-sql.pdb
+Y:\source\uninstall-sql\obj\x64\Release\uninstall-sql.exe.config

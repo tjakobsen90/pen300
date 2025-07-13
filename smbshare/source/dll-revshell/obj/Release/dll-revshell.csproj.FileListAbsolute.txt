@@ -1,0 +1,6 @@
+Z:\source\dll-revshell\obj\Release\dll-revshell.csprojAssemblyReference.cache
+Z:\source\dll-revshell\obj\Release\dll-revshell.csproj.CoreCompileInputs.cache
+Z:\source\dll-revshell\bin\Release\dll-revshell.dll
+Z:\source\dll-revshell\bin\Release\dll-revshell.pdb
+Z:\source\dll-revshell\obj\Release\dll-revshell.dll
+Z:\source\dll-revshell\obj\Release\dll-revshell.pdb

@@ -1,0 +1,14 @@
+Z:\source\sqlexec\obj\x64\Release\sqlexec.csprojAssemblyReference.cache
+Z:\source\sqlexec\obj\x64\Release\sqlexec.csproj.CoreCompileInputs.cache
+Z:\source\sqlexec\obj\x64\Release\sqlexec.exe
+Z:\source\sqlexec\obj\x64\Release\sqlexec.pdb
+Z:\source\sqlexec\bin\x64\Release\sqlexec.exe.config
+Z:\source\sqlexec\bin\x64\Release\sqlexec.exe
+Z:\source\sqlexec\bin\x64\Release\sqlexec.pdb
+Y:\source\sqlexec\bin\x64\Release\sqlexec.exe.config
+Y:\source\sqlexec\bin\x64\Release\sqlexec.exe
+Y:\source\sqlexec\bin\x64\Release\sqlexec.pdb
+Y:\source\sqlexec\obj\x64\Release\sqlexec.csproj.AssemblyReference.cache
+Y:\source\sqlexec\obj\x64\Release\sqlexec.csproj.CoreCompileInputs.cache
+Y:\source\sqlexec\obj\x64\Release\sqlexec.exe
+Y:\source\sqlexec\obj\x64\Release\sqlexec.pdb

@@ -1,0 +1,7 @@
+C:\Users\irene\source\repos\halllow\halllow\bin\x64\Release\halllow.exe.config
+C:\Users\irene\source\repos\halllow\halllow\bin\x64\Release\halllow.exe
+C:\Users\irene\source\repos\halllow\halllow\bin\x64\Release\halllow.pdb
+C:\Users\irene\source\repos\halllow\halllow\obj\x64\Release\halllow.csproj.AssemblyReference.cache
+C:\Users\irene\source\repos\halllow\halllow\obj\x64\Release\halllow.csproj.CoreCompileInputs.cache
+C:\Users\irene\source\repos\halllow\halllow\obj\x64\Release\halllow.exe
+C:\Users\irene\source\repos\halllow\halllow\obj\x64\Release\halllow.pdb

@@ -1,0 +1,6 @@
+Y:\source\sqlexec-dll\bin\x64\Release\sqlexec-dll.dll
+Y:\source\sqlexec-dll\bin\x64\Release\sqlexec-dll.pdb
+Y:\source\sqlexec-dll\obj\x64\Release\sqlexec-dll.csproj.AssemblyReference.cache
+Y:\source\sqlexec-dll\obj\x64\Release\sqlexec-dll.csproj.CoreCompileInputs.cache
+Y:\source\sqlexec-dll\obj\x64\Release\sqlexec-dll.dll
+Y:\source\sqlexec-dll\obj\x64\Release\sqlexec-dll.pdb

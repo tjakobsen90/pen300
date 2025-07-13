@@ -1,0 +1,6 @@
+Y:\source\js-revshell\bin\Release\js-revshell.dll
+Y:\source\js-revshell\bin\Release\js-revshell.pdb
+Y:\source\js-revshell\obj\Release\js-revshell.csproj.AssemblyReference.cache
+Y:\source\js-revshell\obj\Release\js-revshell.csproj.CoreCompileInputs.cache
+Y:\source\js-revshell\obj\Release\js-revshell.dll
+Y:\source\js-revshell\obj\Release\js-revshell.pdb

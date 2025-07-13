@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{117DB500-FA8E-49D6-B8B5-7ECD318E2917}|sqlexec\\sqlexec.csproj|Y:\\source\\sqlexec\\sqlexec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117DB500-FA8E-49D6-B8B5-7ECD318E2917}|sqlexec\\sqlexec.csproj|solutionrelative:sqlexec\\sqlexec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DB500-FA8E-49D6-B8B5-7ECD318E2917}|sqlexec\\sqlexec.csproj|Y:\\source\\sqlexec\\linkedsqloperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117DB500-FA8E-49D6-B8B5-7ECD318E2917}|sqlexec\\sqlexec.csproj|solutionrelative:sqlexec\\linkedsqloperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DB500-FA8E-49D6-B8B5-7ECD318E2917}|sqlexec\\sqlexec.csproj|Y:\\source\\sqlexec\\localsqloperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117DB500-FA8E-49D6-B8B5-7ECD318E2917}|sqlexec\\sqlexec.csproj|solutionrelative:sqlexec\\localsqloperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3748E1-0855-488D-ACE8-C17022DC7F04}|uninstall-sql\\uninstall-sql.csproj|y:\\source\\uninstall-sql\\uninstall-sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3748E1-0855-488D-ACE8-C17022DC7F04}|uninstall-sql\\uninstall-sql.csproj|solutionrelative:uninstall-sql\\uninstall-sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFAFB62-0F92-4191-ACA5-3ACB777072A0}|js-revshell\\js-revshell.csproj|Y:\\source\\js-revshell\\js-revshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFAFB62-0F92-4191-ACA5-3ACB777072A0}|js-revshell\\js-revshell.csproj|solutionrelative:js-revshell\\js-revshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764BBFEF-A1E6-42EA-A029-04C7D7F2F432}|uninstall-bypass\\uninstall-bypass.csproj|Y:\\source\\uninstall-bypass\\uninstall-bypass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764BBFEF-A1E6-42EA-A029-04C7D7F2F432}|uninstall-bypass\\uninstall-bypass.csproj|solutionrelative:uninstall-bypass\\uninstall-bypass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7905F77-5A18-4CE1-B908-47B8F11058CB}|uninstall-manual\\uninstall-manual.csproj|Y:\\source\\uninstall-manual\\uninstall-manual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7905F77-5A18-4CE1-B908-47B8F11058CB}|uninstall-manual\\uninstall-manual.csproj|solutionrelative:uninstall-manual\\uninstall-manual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CB09F8-DC0F-4E2C-8782-50073893D14B}|buildproject\\buildproject.csproj|Y:\\source\\buildproject\\buildproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CB09F8-DC0F-4E2C-8782-50073893D14B}|buildproject\\buildproject.csproj|solutionrelative:buildproject\\buildproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B00D3FF-0987-463A-ABAC-96921E95E8DB}|dll-revshell\\dll-revshell.csproj|Y:\\source\\dll-revshell\\dll-revshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B00D3FF-0987-463A-ABAC-96921E95E8DB}|dll-revshell\\dll-revshell.csproj|solutionrelative:dll-revshell\\dll-revshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "uninstall-manual.cs",
+              "DocumentMoniker": "Y:\\source\\uninstall-manual\\uninstall-manual.cs",
+              "RelativeDocumentMoniker": "uninstall-manual\\uninstall-manual.cs",
+              "ToolTip": "Y:\\source\\uninstall-manual\\uninstall-manual.cs",
+              "RelativeToolTip": "uninstall-manual\\uninstall-manual.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T21:09:07.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "uninstall-sql.cs",
+              "DocumentMoniker": "Y:\\source\\uninstall-sql\\uninstall-sql.cs",
+              "RelativeDocumentMoniker": "uninstall-sql\\uninstall-sql.cs",
+              "ToolTip": "Y:\\source\\uninstall-sql\\uninstall-sql.cs",
+              "RelativeToolTip": "uninstall-sql\\uninstall-sql.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAwHYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T21:05:53.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "uninstall-bypass.cs",
+              "DocumentMoniker": "Y:\\source\\uninstall-bypass\\uninstall-bypass.cs",
+              "RelativeDocumentMoniker": "uninstall-bypass\\uninstall-bypass.cs",
+              "ToolTip": "Y:\\source\\uninstall-bypass\\uninstall-bypass.cs",
+              "RelativeToolTip": "uninstall-bypass\\uninstall-bypass.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwIQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:59:25.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "js-revshell.cs",
+              "DocumentMoniker": "Y:\\source\\js-revshell\\js-revshell.cs",
+              "RelativeDocumentMoniker": "js-revshell\\js-revshell.cs",
+              "ToolTip": "Y:\\source\\js-revshell\\js-revshell.cs",
+              "RelativeToolTip": "js-revshell\\js-revshell.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwEwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:32:55.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dll-revshell.cs",
+              "DocumentMoniker": "Y:\\source\\dll-revshell\\dll-revshell.cs",
+              "RelativeDocumentMoniker": "dll-revshell\\dll-revshell.cs",
+              "ToolTip": "Y:\\source\\dll-revshell\\dll-revshell.cs",
+              "RelativeToolTip": "dll-revshell\\dll-revshell.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:20:22.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "buildproject.cs",
+              "DocumentMoniker": "Y:\\source\\buildproject\\buildproject.cs",
+              "RelativeDocumentMoniker": "buildproject\\buildproject.cs",
+              "ToolTip": "Y:\\source\\buildproject\\buildproject.cs",
+              "RelativeToolTip": "buildproject\\buildproject.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwHMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:13:17.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalSqlOperations.cs",
+              "DocumentMoniker": "Y:\\source\\sqlexec\\LocalSqlOperations.cs",
+              "RelativeDocumentMoniker": "sqlexec\\LocalSqlOperations.cs",
+              "ToolTip": "Y:\\source\\sqlexec\\LocalSqlOperations.cs",
+              "RelativeToolTip": "sqlexec\\LocalSqlOperations.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAwwEQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:54:56.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedSqlOperations.cs",
+              "DocumentMoniker": "Y:\\source\\sqlexec\\LinkedSqlOperations.cs",
+              "RelativeDocumentMoniker": "sqlexec\\LinkedSqlOperations.cs",
+              "ToolTip": "Y:\\source\\sqlexec\\LinkedSqlOperations.cs",
+              "RelativeToolTip": "sqlexec\\LinkedSqlOperations.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAuwJ0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:32:32.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sqlexec.cs",
+              "DocumentMoniker": "Y:\\source\\sqlexec\\sqlexec.cs",
+              "RelativeDocumentMoniker": "sqlexec\\sqlexec.cs",
+              "ToolTip": "Y:\\source\\sqlexec\\sqlexec.cs",
+              "RelativeToolTip": "sqlexec\\sqlexec.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwFwAAABcAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:41:31.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
