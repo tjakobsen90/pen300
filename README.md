@@ -24,7 +24,7 @@
 # Getting it to run
 - `git clone git@github.com:tjakobsen90/pen300.git /home/myname/pen300`
 - Make sure to replace /home/tijmen in the code to your own name :)
-- `sudo rlwrap -n msfconsole -q -r /home/tijmen/pen300/tools/msfconsole/handler_setup.rc"`
+- `sudo rlwrap -n msfconsole -q -r /home/myname/pen300/tools/msfconsole/handler_setup.rc`
 - `~/pen300/tools/webserver.sh`
 - `~/pen300/genpayload/app.py -i 10.10.10.10 -f ps -t ph`
 - `~/pen300/genpayload/oneliners.py -i 10.10.10.10 -c run.txt`
