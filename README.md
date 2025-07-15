@@ -22,7 +22,7 @@
     - /ps is for powershell scripts
 
 # Getting it to run
-- `git clone git@github.com:tjakobsen90/pen300.git /home/myname`
+- `git clone git@github.com:tjakobsen90/pen300.git /home/myname/pen300`
 - Make sure to replace /home/tijmen in the code to your own name :)
 - `sudo rlwrap -n msfconsole -q -r /home/tijmen/pen300/tools/msfconsole/handler_setup.rc"`
 - `~/pen300/tools/webserver.sh`
