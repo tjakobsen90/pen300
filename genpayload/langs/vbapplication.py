@@ -18,8 +18,8 @@ def main(args):
         raise ValueError("Shellcode not generate")
 
     generate_payload(args, command, shellcode, output_path)
-    print(f"See '{output_path}' for your shellcode")
-    print(f"1. Create a Word-document\n2. Save as 97-03 format\n3. Filename: {args.name}\n4. Create a new Macro inside the document\n5. Verify the Macro location!\n6. Paste shellcode and save")
+    print(f"See '{output_path}' for your shellcode\n")
+    print(f"!!! Make sure it is the right arch !!!\n1. Create a Word-document\n2. Save as 97-03 format\n3. Filename: {args.name}\n4. Create a new Macro inside the document\n5. Verify the Macro location!\n6. Paste shellcode and save")
 
 
 def generate_shellcode(command, args):

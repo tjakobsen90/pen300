@@ -116,7 +116,7 @@ Linux:
 Windows:
     cs     : exe, exe-ph, exe-nomigrate, dll, dll-ph, aspx
     js     : hta, xsl, hta-ph, xsl-ph
-    ps     : default. ph
+    ps     : default, ph
     vba    : default, basic
     vba-ps : default, run, exe, dll"""
     )

@@ -1,7 +1,7 @@
 
 Sub MyMacro()
     Dim str As String
-    str = "powershell -nop -exec bypass -c ping.exe 192.168.49.123"
+    str = "powershell -nop -exec bypass -c ping.exe 192.168.45.158"
     Shell str, vbHide
 End Sub
 
