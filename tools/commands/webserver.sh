@@ -20,7 +20,6 @@ source_files_portexecs=(
     "$portexec_base_path/uninstall-bypass/bin/x64/Release/uninstall-bypass.exe"
     "$portexec_base_path/uninstall-manual/bin/x64/Release/uninstall-manual.exe"
     "$portexec_base_path/latexec/bin/x64/Release/latexec.exe"
-    "$portexec_base_path/rdpthief/bin/x64/Release/rdpthief.exe"
     "$portexec_base_path/sqlexec/bin/x64/Release/sqlexec.exe"
 )
 
